@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Obstacle-Run",
+"productVersion": "0.1",
+"dataUrl": "Obstacle-Ran.data.unityweb",
+"wasmCodeUrl": "Obstacle-Ran.wasm.code.unityweb",
+"wasmFrameworkUrl": "Obstacle-Ran.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.33f1"
+}
